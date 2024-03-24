@@ -38,7 +38,8 @@ This is a note-taking app which runs in node.js. It has a front-end styled html 
 
 ## 5. Usage
 
-You can use this app through a web browser or via deployed site on Heroku at: [link]. Enter notes into the fillable fields and save them as JSON data. They will be accessible upon page refresh. Delete notes using the provided icon. 
+Heroku URL [[link]](https://mysterious-ravine-39693-dea3bc4026fc.herokuapp.com/). 
+Enter notes into the fillable fields and save them as JSON data. They will be accessible upon page refresh. Delete notes using the provided icon. 
 
 ## 6. Support
 

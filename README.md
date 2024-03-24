@@ -26,7 +26,9 @@ This is a note-taking app which runs in node.js. It has a front-end styled html 
 
 ## 3. Visuals
 
-![screen 1](https://github.com/sifzerda/e-commerce-back-end/assets/139626561/620b272f-5d41-43a7-b8ab-98d72d2d70dd)
+![screen nt 1](https://github.com/sifzerda/note-taker/assets/139626561/efa135ae-e771-4e41-a626-42c7437a5147)
+![screen nt 2](https://github.com/sifzerda/note-taker/assets/139626561/8db5a201-50c9-4816-9333-d4537f416174)
+![screen nt 3](https://github.com/sifzerda/note-taker/assets/139626561/01ef020e-6c8a-4af7-9ea1-4cfb357a462b)
 
 ## 4. Installation
 
